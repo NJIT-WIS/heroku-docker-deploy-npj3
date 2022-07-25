@@ -21,11 +21,11 @@ workflow working where indicated below.
 
 ## Put the production workflow badge here
 
-[![Production Workflow]()]()
+[![Production Workflow]()]([![Production Workflow 1](https://github.com/NJIT-WIS/heroku-docker-deploy-npj3/actions/workflows/prod.yml/badge.svg)](https://github.com/NJIT-WIS/heroku-docker-deploy-npj3/actions/workflows/prod.yml))
 
 ## Put a link to your Production Heroku Deployment Here
 
-* [Production Deployment](https://kwilliam-prod.herokuapp.com/)
+* [Production Deployment](https://npj3.herokuapp.com/)
 
 ## Instructions
 
