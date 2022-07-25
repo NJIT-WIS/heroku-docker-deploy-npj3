@@ -25,7 +25,7 @@ workflow working where indicated below.
 
 ## Put a link to your Production Heroku Deployment Here
 
-* [Production Deployment](https://npj3.herokuapp.com/)
+* [Production Deployment](https://npj3-prod.herokuapp.com/)
 
 ## Instructions
 
