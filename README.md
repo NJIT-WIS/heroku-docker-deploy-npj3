@@ -1,8 +1,8 @@
 # Project Setup
 
-Name:
+Name: Nava Praharsha
 
-UCID:
+UCID: npj3@njit.edu
 
 ## Introduction
 
